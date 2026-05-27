@@ -104,7 +104,7 @@ This rule targets **functions that do the mathematical work for you**. You must 
   > — Saurabh, 5/26/26, 13:19
 
 ### Submission Format ("Handwritten")
-- **Handwritten** means written by hand — pen on paper, scanned/photographed, compiled into a **single PDF** named `BITSID.pdf`.
+- **Handwritten** means written by hand — pen on paper, scanned/photographed, compiled into a **single PDF** named `<YOUR_BITSID>.pdf`.
 - Writing on an **iPad/tablet with a stylus** is also acceptable — it is still handwritten, just digital ink. Export as a single PDF.
 - **Not acceptable**: typed text in a "handwriting" font, or only screenshots of code/output without the worked steps.
   > — Saurabh, 5/18/26, 10:27
@@ -446,7 +446,7 @@ Take a random 7×5 matrix having all its columns as linearly independent and dec
 | **Original deadline** | 27th May, 2026 19:00 hrs (per assignment PDF instruction 6) |
 | **Extended deadline** | **31st May, 2026** (extended on Taxila; confirmed by Saurabh) |
 | **Recommended submission** | By 30th May |
-| **File format** | Single PDF named `BITSID.pdf` |
+| **File format** | Single PDF named `<YOUR_BITSID>.pdf` |
 | **File size limit** | 10 MB on Taxila |
 | **Submission platform** | Taxila (e-learn portal) |
 | **Email submissions** | Not accepted (assignment instruction 7) |
