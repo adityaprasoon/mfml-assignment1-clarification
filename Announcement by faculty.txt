@@ -1,0 +1,37 @@
+Announcement 1
+
+Dear participants,
+
+You may refer to the following clarifications regarding Assignment 1. The questions below were posted by a student, and we thought we could clarify everyone through this announcement.
+
+Q1. Could you please clarify if the code itself must be written out by hand, or if we are permitted to include digital screenshots of our code implementation alongside handwritten results, derivations, and observations?
+
+Ans: The code part of the solution may be pasted as screenshots. However, since snippets are usually small, they should preferably be handwritten.
+
+Q2. Does the restriction extend to using libraries like NumPy or SciPy for basic matrix storage and fundamental arithmetic, or should the entire matrix structure and logic be implemented from scratch using primitive arrays/lists?
+
+Ans: Throughout the assignment, do not use built-in functions for the required procedures. Use arrays and implement the logic yourself.
+
+Q3. Does the “no built-in functions” rule apply to the entire assignment or only to Question 1?
+
+Ans: The restriction applies throughout the assignment wherever the corresponding procedure is required to be implemented.
+
+All the best,
+MFML team.
+
+
+
+
+Announcement 2
+
+1. Since built-in functions are not supposed to be used, I am writing helper functions such as absolute(x) for computing absolute values, augmented_matrix(A, b) for stacking A and b column-wise without directly using NumPy utilities. For Q1(a) and Q1(b), should these helper functions also be included in the submitted code snippets, or is it sufficient to include only the core logic for REF/RREF computation & particular / homogeneous solution computation?
+
+Ans:It is sufficient to include only the core logic for REF/RREF computation.
+
+2. For Q1(c), is showing the final output sufficient, or should the code snippet used for verifying the general solution also be included in the submission?
+
+Ans:Code snippet should be included
+
+3. Since the deliverables are to be handwritten and uploaded as a PDF, would you recommend handwriting the code snippets themselves, or would screenshots/printouts of the code be acceptable within the handwritten submission?
+
+Ans: You can take snapshots of code snippets and attach to the handwritten stuff and bundle them as a single pdf.
